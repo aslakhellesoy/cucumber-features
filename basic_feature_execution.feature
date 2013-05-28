@@ -1,4 +1,5 @@
 Feature: Basic feature execution
+
   In order to have automated acceptance tests
   As a developer
   I want Cucumber to run features
